@@ -9,7 +9,7 @@ body
 
 p
 {
-    size: 22px;
+    size-adjust: 22px;
     color: Darkblue;
     text-align: justify;
 }
