@@ -1,0 +1,15 @@
+body
+{
+    text-align: Center;
+    font-family: 'Segoe UI', Tahoma;
+    font-size: 43px;
+    color:lightblue;
+
+}
+
+p
+{
+    size: 22px;
+    color: Darkblue;
+    text-align: justify;
+}
