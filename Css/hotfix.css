@@ -7,9 +7,15 @@ body
 
 }
 
+center
+{
+    text-align: center;
+    font-weight: 400;
+}
+
 p
 {
-    size-adjust: 22px;
+    size-adjust: 0,22px;
     color: Darkblue;
     text-align: justify;
 }
