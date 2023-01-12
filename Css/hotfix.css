@@ -4,18 +4,52 @@ body
     font-family: 'Segoe UI', Tahoma;
     font-size: 43px;
     color:lightblue;
+    size: 400;
+    border-radius: 5.6px 5.6px 5.6px 5.6px;
+     -moz-border-radius: 5px 5px 10px 10px;
+     -webkit-border-radius: 5px 5px 5px 5px;
+    border: 44px outset #000000;
 
 }
 
+#Cabecita-titulo #Cabeceira{
+    padding: 0.5em 0.5em 0.5em 0.85em;
+    font-weight: normal;
+    font-size: 0.76em;    
+    text-align: center;
+}
+
+
+/**
 center
 {
     text-align: center;
     font-weight: 400;
 }
+*/
+#Container{
+    width: 72%;
+    padding: 1em;
+    text-align: left;
+    border: 47px solid darkgreen;
+    margin: 0.72 auto;
+}
 
-p
-{
+#container , h1{
+    font-size: 22px;
+}
+p{
     size-adjust: 0,22px;
     color: Darkblue;
     text-align: justify;
 }
+
+#Cabecita-titulo{
+    background: 72%;
+    background-color: darkblue;
+    color: whitesmoke;
+    box-shadow: 0px 1px 50px 0px rgb(0, 0, 0, 0.5);
+    margin: 0;
+    padding: 0.5em;
+}
+
